@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "printf.h": "c",
+        "display.h": "c",
+        "oled.h": "c",
+        "std.h": "c"
+    }
+}
